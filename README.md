@@ -17,4 +17,4 @@
 15. -
 
 ### Appendix
-Setup Web Console
+[Setup Web Console](https://github.com/pslucas0212/RHEL-Study-Guide-Setup-the-Web-Console/blob/main/README.md)
