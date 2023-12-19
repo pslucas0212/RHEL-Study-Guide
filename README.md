@@ -8,7 +8,7 @@
 6. -
 7. -
 8. -
-9. Manage Basic Storage
+9. [Manage Basic Storage](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Basic-Storage)
 10. -
 11. -
 12. -
