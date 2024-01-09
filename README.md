@@ -7,7 +7,7 @@
 5. [Manage SELinux Security](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-SELinux-Security/)
 6. [Tune System Performance](https://github.com/pslucas0212/RHEL-Study-Guide-Tune-System-Performance)
 7. Schedule Recurring User Jobs - No lab
-8. -
+8. [Install and Update Software Packages](https://github.com/pslucas0212/RHEL-Study-Guide-Install-and-Update-Software-Packages)
 9. [Manage Basic Storage](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Basic-Storage)
 10. -
 11. -
