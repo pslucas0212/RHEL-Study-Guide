@@ -9,7 +9,7 @@
 7. Schedule Recurring User Jobs - No lab
 8. [Install and Update Software Packages](https://github.com/pslucas0212/RHEL-Study-Guide-Install-and-Update-Software-Packages)
 9. [Manage Basic Storage](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Basic-Storage)
-10. [RHEL Study Guide: Manage Storage Stack]()
+10. [RHEL Study Guide: Manage Storage Stack](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Storage-Stack/)
 11. -
 12. -
 13. -
