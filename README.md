@@ -15,6 +15,8 @@
 13. -
 14. -
 15. -
+16. -
+17. -
 
 ### Appendix
 [Setup Web Console](https://github.com/pslucas0212/RHEL-Study-Guide-Setup-the-Web-Console/blob/main/README.md)
