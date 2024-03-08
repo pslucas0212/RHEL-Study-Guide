@@ -10,7 +10,7 @@
 8. [Install and Update Software Packages](https://github.com/pslucas0212/RHEL-Study-Guide-Install-and-Update-Software-Packages)
 9. [Manage Basic Storage](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Basic-Storage)
 10. [Manage Storage Stack](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Storage-Stack/)
-11. [Control the Boot Process](https://github.com/pslucas0212/RHEL-Study-Guide-Control-the-Boot-Process))
+11. [Control the Boot Process](https://github.com/pslucas0212/RHEL-Study-Guide-Control-the-Boot-Process)
 12. [Analyze and Store Logs]()
 13. [Manage Networking]()
 14. [Access Network-Attached Storage]()
