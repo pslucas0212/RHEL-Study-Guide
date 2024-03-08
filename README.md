@@ -11,9 +11,9 @@
 9. [Manage Basic Storage](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Basic-Storage)
 10. [Manage Storage Stack](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Storage-Stack/)
 11. [Control the Boot Process](https://github.com/pslucas0212/RHEL-Study-Guide-Control-the-Process)
-12. -
-13. -
-14. -
+12. [Analyze and Store Logs]()
+13. [Manage Networking]()
+14. [Access Network-Attached Storage]()
 15. -
 16. -
 17. -
