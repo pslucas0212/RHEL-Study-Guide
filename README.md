@@ -1,7 +1,7 @@
 # RHEL Study Guide - Table of Contents
 
 1. [Access Systems and Get Support](https://github.com/pslucas0212/RHEL-Study-Guide-Access-Systems-and-Get-Support/tree/main)
-2. Manage Files From the Command Line - Lab guide coming soon
+2. [Manage Files From the Command Line]()
 3. [Manage Local Users and Groups](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Local-Users-and-Groups)
 4. [Control Access to Files](https://github.com/pslucas0212/RHEL-Study-Guide-Control-Access-To-Files)
 5. [Manage SELinux Security](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-SELinux-Security/)
