@@ -16,10 +16,10 @@
 14. [Access Network-Attached Storage](https://github.com/pslucas0212/RHEL-Study-Guide-Access-Network-Attached-Storage)
 15. [Manage Network Security](https://github.com/pslucas0212/RHEL-Study-Guide-Manage-Network-Security)
 16. [Run Containers](https://github.com/pslucas0212/RHEL-Study-Guide-Run-Containers)
-17.1 [Configure and Manage Server Security](https://github.com/pslucas0212/RHEL-Study-Guide-Configure-and-Manage-Server-Security)
-17.2
-17.3
-17.4
+17.1 [Configure and Manage Server Security](https://github.com/pslucas0212/RHEL-Study-Guide-Configure-and-Manage-Server-Security)  
+17.2  
+17.3  
+17.4  
 
 ### Appendix
 [Setup Web Console](https://github.com/pslucas0212/RHEL-Study-Guide-Setup-the-Web-Console/blob/main/README.md)
